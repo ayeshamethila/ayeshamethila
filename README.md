@@ -40,7 +40,8 @@
 
 ## 🔗 How to reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysha-siddika-methila-745468378/)
+ 
 
 📫 Email:ayeshamethila@gmail.com  
 
