@@ -1,10 +1,10 @@
 <!-- Optional banner -->
-# Hi there, I'm Ayesha! 👋🏽
+# Hi there, I'm Aysha! 👋🏽
 ---
 
 ## 👩‍💻 About Me
 
-🎓 I'm **Ayesha Methila**, a 3rd-year Computer Science & Engineering student at  
+🎓 I'm **Aysha Siddika Methila**, a 3rd-year Computer Science & Engineering student at  
 **University of Liberal Arts Bangladesh (ULAB)**.
 
 💡 I’m passionate about software development, especially in  
