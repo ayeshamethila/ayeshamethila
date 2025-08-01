@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm **Aysha Siddika Methila**, a 3rd-year Computer Science & Engineering student at  
+🎓 I'm **Aysha Siddika Methila**, a student of Computer Science & Engineering at  
 **University of Liberal Arts Bangladesh (ULAB)**.
 
 💡 I’m passionate about software development, especially in  
